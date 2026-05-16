@@ -18,7 +18,7 @@ Most of my work is manual. I focus on protocol logic, invariant breaks, access c
 
 ## Selected Findings
 * **Snowbridge (Polkadot)** — High severity cross-chain / XCM issue, accepted via HackenProof
-* **OORT** — Medium severity resource exhaustion issue, accepted by core team
+* **OORT Protocol** — Medium severity resource exhaustion issue, accepted by core team via HackenProof
 
 ## What I Do
 * Manual code review
