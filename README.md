@@ -1,33 +1,26 @@
-# 🛡️ Mohamed Tamer (Mohamed-hat)
-**Independent Security Researcher | Web3 Auditor | Rust & Move Specialist**
+# 🛡️ Mohamed Tamer 
+Security Researcher | Web3 Auditor | Rust & Move
 
----
+I study Architecture Engineering, but most of my work has been in Web3 security and low-latency systems.
 
-### 🔍 About Me
-I am a Security Researcher focused on **Protocol Exploitation** and **Source-level Analysis**. I don’t believe in automated scanners; my methodology is built on **Deep Manual Code Review** and identifying **Complex Logic Flaws** that break protocol invariants.
+I started from protocol security: reviewing smart contracts, tracing logic flows, and looking for edge cases that break assumptions. That led me into trading and execution systems, where I kept running into the same kinds of problems from a different angle: state, timing, risk, and failure under pressure.
 
-* 🎓 **Background:** 2nd Year Engineering Student.
-* 🛠️ **Methodology:** Black-hat adversarial thinking applied to securing decentralized infrastructure.
-* 🎯 **Focus:** Rust systems, Move (Sui/Aptos), and Cross-chain messaging (XCM) security.
+Most of my work is manual. I focus on protocol logic, invariant breaks, access control, accounting issues, and cross-chain edge cases. I care more about finding real failure paths than generating noisy reports.
 
----
-
-### 🏆 Key Security Findings (Publicly Validated)
-
-| Project | Severity | Bug Type | Status |
-| :--- | :--- | :--- | :--- |
-| **Snowbridge (Polkadot)** | **High (7.3)** | Cross-chain Logic / XCM | [Accepted via HackenProof] |
-| **OORT Protocol** | **Medium** | Resource Exhaustion (IOPS) | [Accepted by Core Team] |
-
----
-
-### 🛠️ Technical Arsenal
-* **Languages:** `Rust`, `Move (Sui/Aptos)`, `Solidity`, `Python`.
-* **Domains:** Invariant Violations, Access Control, Economic Attacks, Oracle Manipulation.
-* **Active Research:** Currently participating in a high-stakes **$130k Private Bug Bounty Competition**.
-
----
-
-### 💬 Let's Talk Security
-* **Email:** bvize.com@gmail.com
-* **LinkedIn:** [Insert Your Link Here]
+Work Areas
+Rust
+Move (Sui / Aptos)
+Solidity
+Python
+DeFi / cross-chain security
+MEV / execution systems
+economic and logic vulnerabilities
+Selected Findings
+Snowbridge (Polkadot) — High severity cross-chain / XCM issue, accepted via HackenProof
+OORT — Medium severity resource exhaustion issue, accepted by core team
+What I Do
+Manual code review
+Protocol flow analysis
+Exploit path reconstruction
+Risk and invariant checking
+Low-latency system design
